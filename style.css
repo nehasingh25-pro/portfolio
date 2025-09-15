@@ -1,0 +1,22 @@
+h1,
+h2 {
+    color: blue;
+    font-size: 35px;
+}
+
+p {
+    color: red;
+}
+
+img {
+    border-radius: 50%;
+}
+
+p {
+    font-size: 30px;
+}
+
+ul {
+    color: red;
+    font-size: 30px;
+}
